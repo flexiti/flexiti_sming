@@ -1,7 +1,7 @@
 # flexiti_sming
 ESP8266 project - using sming
 
-For 3 systems (You can choice)
+For 3 systems (You can choose)
 
 1. ESP-01 and DHT22 
 2. ESP-01 and DS1820
