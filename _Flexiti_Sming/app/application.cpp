@@ -39,6 +39,7 @@
 // ESP01 + DHT22  ( field6 hummanidty,field2 temperature ) -> uncomment only "DHT_22"
 // ESP01 + DS1820 ( field5 temperature ) -> uncomment only "DS_18"
 // ESP12 + DS1820 + BMP180 ( field1 tempDS, field7 tempBMP,field8 pressure )-> uncomment only "DS_18" and "BMP_180"
+//
 // ********************************************************************
 
 #define DTH_22
